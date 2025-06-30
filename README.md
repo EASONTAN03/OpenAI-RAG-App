@@ -309,10 +309,6 @@ pip install pytest black flake8
 pre-commit install
 ```
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📞 Contact
 
 For questions, issues, or contributions:
